@@ -17,3 +17,5 @@ This repository relies on several CSVs to run the model properly:
     a CSV containing the 538 rating data for each team
     a CSV containing the current points of each participant for rounds 1 and 2
     a CSV containing the schedule of each team should they advance to the next round - useful in determining resultant matchups in each subsequent round
+
+see model_run.py for an example of how to run the model and explore some of the output features. 
