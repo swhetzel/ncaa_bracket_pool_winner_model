@@ -9,7 +9,9 @@ head outcome probabilities to simulate tournament results round by round. Each
 instance randomizes the outcomes of all Sweet 16 games and then uses those 
 results to randomize the outcomes of subsequent rounds. These results are then
 used to calculate resulting point totals for members of the bracket pool based
-on their picks. 
+on their picks. It is also possible to run the model with a "coin flip" chance
+for each team to win each game by setting probability='even' in the 
+count_outcomes function. 
 
 Team Ratings Source: https://projects.fivethirtyeight.com/march-madness-api/2021/fivethirtyeight_ncaa_forecasts.csv
 Outcome probability calculation source: https://fivethirtyeight.com/features/how-our-march-madness-predictions-work-2/
