@@ -1,0 +1,12 @@
+These are the results of a model run with 10000 iterations using a scaled probability model.
+player,wins,losses,win pcts,loss pcts
+Stephen,5003,0,0.5,0.0
+Liza,3189,1274,0.319,0.127
+Matt,235,372,0.024,0.037
+Kim,121,5164,0.012,0.516
+Dani,534,0,0.053,0.0
+Mike,842,0,0.084,0.0
+Ryan,0,0,0.0,0.0
+Nick,0,111,0.0,0.011
+Brittany,0,855,0.0,0.086
+tie,76,2224,0.008,0.222
